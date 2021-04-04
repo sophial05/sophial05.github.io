@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophia Lu / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sophia Lu"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Sophia Lu"
   avatar           : "profile.png"
   bio              : "I graduated from Stanford with a B.S.H in Mathematical and Computational Science and a minor in Mathematics."
-  location         : "Stanford"
+  location         : "Stanford, CA"
   pubmed           : ""
   googlescholar    : ""
   email            :
